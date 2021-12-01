@@ -1,1 +1,1 @@
-# ai-chapters-teachers
+# ai-chapters-siasia
